@@ -1,0 +1,20 @@
+  how to build node normal project
+  
+   one >> npm init
+   two >> npm install express --save 
+   three >> npm install body-parser   url https://expressjs.com/en/resources/middleware/body-parser.html
+   four >> npm install mysql --save
+   five >> npm install --save-dev nodemone
+
+
+
+
+   how to remove dependentcies
+
+   one >> npm unnistall <name> --save
+   two >> npm unnistall <name> --save-dev
+
+
+
+  how to make express-validation 
+     one >> npm install --save express-validator   url https://express-validator.github.io/docs/index.html
